@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "postgres://zintqtke:sr9N0dsa9Ik_mmHOPwPevi6dQfzUIXhO@castor.db.elephantsql.com/zintqtke",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "JENEQUAS CAR DEALERSHIP",
+            "database": "zintqtke",
+            "username": "nenevirgo32@gmail.com",
+            "password": ""
+        }
+    ]
+}
