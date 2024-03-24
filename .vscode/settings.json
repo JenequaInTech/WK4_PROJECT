@@ -9,6 +9,13 @@
             "database": "zintqtke",
             "username": "nenevirgo32@gmail.com",
             "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://zintqtke:sr9N0dsa9Ik_mmHOPwPevi6dQfzUIXhO@castor.db.elephantsql.com/zintqtke",
+            "name": "my dv"
         }
     ]
 }
